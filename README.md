@@ -3,7 +3,7 @@ An example NodeJS (express) application for OpenPanel
 
 demo: https://nodejs.openpanel.org/
 
-## Usage
+### Usage
 
 1. Add domain in OpenPanel
 2. Navigate to **FileManager** and open the domain folder (docroot)
