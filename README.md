@@ -13,3 +13,7 @@ demo: https://nodejs.openpanel.org/
    ![example](https://i.postimg.cc/cdC3Jxdp/example-nodejs-settings.png)
 6. Click on 'Start Installation' and wait for process to finish.
 7. Test by opening the domain in your browser.
+
+### Python
+
+See also [python-helloworld](https://github.com/stefanpejcic/python-helloworld)
