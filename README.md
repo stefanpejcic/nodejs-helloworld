@@ -1,6 +1,8 @@
 # nodejs-helloworld
 An example NodeJS (express) application for OpenPanel
 
+demo: https://nodejs.openpanel.org/
+
 ## Usage
 
 1. Add domain in OpenPanel
