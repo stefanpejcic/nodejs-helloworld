@@ -16,6 +16,4 @@ demo: https://nodejs.openpanel.org/
 
 ---
 
-### Python
-
 See also [python-helloworld](https://github.com/stefanpejcic/python-helloworld)
