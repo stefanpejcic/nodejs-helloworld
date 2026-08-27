@@ -14,4 +14,4 @@ An example NodeJS (express) application for [OpenPanel](https://github.com/stefa
 
 ---
 
-See also [python-helloworld](https://github.com/stefanpejcic/python-helloworld)
+See also [python-helloworld](https://github.com/stefanpejcic/nodejs-helloworld) and [ruby-helloworld](https://github.com/stefanpejcic/ruby-helloworld)
